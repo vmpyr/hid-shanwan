@@ -1,0 +1,25 @@
+# Build directory
+build/
+
+# Backup and temporary files
+*.o
+*.ko
+*.mod.c
+*.mod
+*.symvers
+*.order
+*.cmd
+.*.cmd
+*.tmp
+*.markers
+*.o.d
+
+# Editor/IDE files
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+.DS_Store
+.vscode/
+.idea/

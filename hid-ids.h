@@ -1,0 +1,7 @@
+#ifndef HID_IDS_H
+#define HID_IDS_H
+
+#define USB_VENDOR_ID_SHANWAN 0x2563
+#define USB_DEVICE_ID_SHANWAN_ANDROID_GAMEPAD 0x0526
+
+#endif
